@@ -1,5 +1,5 @@
 `sudo apt update && sudo apt upgrade`
-
+I recomend installing the firefox snap first. and then running the next command.
 # Near the end it will try to restart the snapd service which will take 5 minutes. Let it do its thing.
 `sudo apt install ubuntu-desktop`
 
